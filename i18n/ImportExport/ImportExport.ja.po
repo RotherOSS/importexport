@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ImportExport\n"
 "POT-Creation-Date: 2020-01-24 10:41+0000\n"
-"PO-Revision-Date: 2024-09-05 01:13+0000\n"
+"PO-Revision-Date: 2024-11-30 04:34+0000\n"
 "Last-Translator: Kozo Sakurai <sakurai@io-architect.com>\n"
 "Language-Team: Japanese <http://weblate.otobo.org/projects/opm-packages/"
 "importexport/ja/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4.2\n"
+"X-Generator: Weblate 5.8.4\n"
 
 #. Template: AdminImportExport
 msgid "Import/Export Management"
@@ -119,7 +119,7 @@ msgstr "読み込み済みファイルの最終実行行数"
 
 #. Template: AdminImportExport
 msgid "Ok"
-msgstr "Ok"
+msgstr "OK"
 
 #. Template: AdminImportExport
 msgid "Do you really want to delete this template item?"
