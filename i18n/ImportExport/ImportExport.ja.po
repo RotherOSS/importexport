@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ImportExport\n"
-"POT-Creation-Date: 2020-01-24 10:41+0000\n"
+"POT-Creation-Date: 2026-03-06 11:48+0000\n"
 "PO-Revision-Date: 2024-11-30 04:34+0000\n"
 "Last-Translator: Kozo Sakurai <sakurai@io-architect.com>\n"
 "Language-Team: Japanese <http://weblate.otobo.org/projects/opm-packages/"
@@ -13,236 +13,189 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.8.4\n"
 
-#. Template: AdminImportExport
-msgid "Import/Export Management"
-msgstr "インポート/エクスポートの管理"
+#~ msgid "Import/Export Management"
+#~ msgstr "インポート/エクスポートの管理"
 
-#. Template: AdminImportExport
-msgid "Add template"
-msgstr "テンプレートを追加"
+#~ msgid "Add template"
+#~ msgstr "テンプレートを追加"
 
-#. Template: AdminImportExport
-msgid "Create a template to import and export object information."
-msgstr "オブジェクトのインポート・エクスポート用のテンプレートを作成する。"
+#~ msgid "Create a template to import and export object information."
+#~ msgstr "オブジェクトのインポート・エクスポート用のテンプレートを作成する。"
 
-#. Template: AdminImportExport
-msgid "To use this module, you need to install ITSMConfigurationManagement or any other package that provides back end for objects to be imported and exported."
-msgstr "このモジュールを利用するには、 ITSMConfigurationManagement か、オブジェクトのインポートおよびエクスポートの機能を提供するパッケージをインストールする必要があります。"
+#~ msgid ""
+#~ "To use this module, you need to install ITSMConfigurationManagement or "
+#~ "any other package that provides back end for objects to be imported and "
+#~ "exported."
+#~ msgstr ""
+#~ "このモジュールを利用するには、 ITSMConfigurationManagement か、オブジェク"
+#~ "トのインポートおよびエクスポートの機能を提供するパッケージをインストールす"
+#~ "る必要があります。"
 
-#. Template: AdminImportExport
-msgid "Start Import"
-msgstr "インポート開始"
+#~ msgid "Start Import"
+#~ msgstr "インポート開始"
 
-#. Template: AdminImportExport
-msgid "Start Export"
-msgstr "エクスポート開始"
+#~ msgid "Start Export"
+#~ msgstr "エクスポート開始"
 
-#. Template: AdminImportExport
-msgid "Delete this template"
-msgstr "このテンプレートを削除"
+#~ msgid "Delete this template"
+#~ msgstr "このテンプレートを削除"
 
-#. Template: AdminImportExport
-msgid "Step 1 of 5 - Edit common information"
-msgstr "Step 1 of 5 - 基本情報の設定"
+#~ msgid "Step 1 of 5 - Edit common information"
+#~ msgstr "Step 1 of 5 - 基本情報の設定"
 
-#. Template: AdminImportExport
-msgid "Name is required!"
-msgstr "名称は必須です!"
+#~ msgid "Name is required!"
+#~ msgstr "名称は必須です!"
 
-#. Template: AdminImportExport
-msgid "Object is required!"
-msgstr "オブジェクトは必須です!"
+#~ msgid "Object is required!"
+#~ msgstr "オブジェクトは必須です!"
 
-#. Template: AdminImportExport
-msgid "Format is required!"
-msgstr "フォーマットは必須です!"
+#~ msgid "Format is required!"
+#~ msgstr "フォーマットは必須です!"
 
-#. Template: AdminImportExport
-msgid "Step 2 of 5 - Edit object information"
-msgstr "Step 2 of 5 - オブジェクト情報の設定"
+#~ msgid "Step 2 of 5 - Edit object information"
+#~ msgstr "Step 2 of 5 - オブジェクト情報の設定"
 
-#. Template: AdminImportExport
-msgid "Step 3 of 5 - Edit format information"
-msgstr "Step 3 of 5 - フォーマット情報の設定"
+#~ msgid "Step 3 of 5 - Edit format information"
+#~ msgstr "Step 3 of 5 - フォーマット情報の設定"
 
-#. Template: AdminImportExport
-msgid "is required!"
-msgstr "必須です！"
+#~ msgid "is required!"
+#~ msgstr "必須です！"
 
-#. Template: AdminImportExport
-msgid "Step 4 of 5 - Edit mapping information"
-msgstr "Step 4 of 5 - マッピング情報の設定"
+#~ msgid "Step 4 of 5 - Edit mapping information"
+#~ msgstr "Step 4 of 5 - マッピング情報の設定"
 
-#. Template: AdminImportExport
-msgid "No map elements found."
-msgstr "マッピング要素が見つかりませんでした。"
+#~ msgid "No map elements found."
+#~ msgstr "マッピング要素が見つかりませんでした。"
 
-#. Template: AdminImportExport
-msgid "Add Mapping Element"
-msgstr "マッピング要素の追加"
+#~ msgid "Add Mapping Element"
+#~ msgstr "マッピング要素の追加"
 
-#. Template: AdminImportExport
-msgid "Step 5 of 5 - Edit search information"
-msgstr "Step 5 of 5 - 検索情報の設定"
+#~ msgid "Step 5 of 5 - Edit search information"
+#~ msgstr "Step 5 of 5 - 検索情報の設定"
 
-#. Template: AdminImportExport
-msgid "Restrict export per search"
-msgstr "検索あたりの出力を制限"
+#~ msgid "Restrict export per search"
+#~ msgstr "検索あたりの出力を制限"
 
-#. Template: AdminImportExport
-msgid "Import information"
-msgstr "情報をインポート"
+#~ msgid "Import information"
+#~ msgstr "情報をインポート"
 
-#. Template: AdminImportExport
-msgid "Source File"
-msgstr "ソースファイル"
+#~ msgid "Source File"
+#~ msgstr "ソースファイル"
 
-#. Template: AdminImportExport
-msgid "Import summary for %s"
-msgstr "%sのインポート・サマリー"
+#~ msgid "Import summary for %s"
+#~ msgstr "%sのインポート・サマリー"
 
-#. Template: AdminImportExport
-msgid "Records"
-msgstr "レコード"
+#~ msgid "Records"
+#~ msgstr "レコード"
 
-#. Template: AdminImportExport
-msgid "Success"
-msgstr "成功"
+#~ msgid "Success"
+#~ msgstr "成功"
 
-#. Template: AdminImportExport
-msgid "Duplicate names"
-msgstr "名前が重複しています"
+#~ msgid "Duplicate names"
+#~ msgstr "名前が重複しています"
 
-#. Template: AdminImportExport
-msgid "Last processed line number of import file"
-msgstr "読み込み済みファイルの最終実行行数"
+#~ msgid "Last processed line number of import file"
+#~ msgstr "読み込み済みファイルの最終実行行数"
 
-#. Template: AdminImportExport
-msgid "Ok"
-msgstr "OK"
+#~ msgid "Ok"
+#~ msgstr "OK"
 
-#. Template: AdminImportExport
-msgid "Do you really want to delete this template item?"
-msgstr "本当にこのテンプレートを削除してよろしいですか？"
+#~ msgid "Do you really want to delete this template item?"
+#~ msgstr "本当にこのテンプレートを削除してよろしいですか？"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "No object backend found!"
-msgstr "指定されたオブジェクトのバックエンドが見つかりません！"
+#~ msgid "No object backend found!"
+#~ msgstr "指定されたオブジェクトのバックエンドが見つかりません！"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "No format backend found!"
-msgstr "指定されたフォーマットのバックエンドが見つかりません！"
+#~ msgid "No format backend found!"
+#~ msgstr "指定されたフォーマットのバックエンドが見つかりません！"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Template not found!"
-msgstr "テンプレートが見つかりません！"
+#~ msgid "Template not found!"
+#~ msgstr "テンプレートが見つかりません！"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Can't insert/update template!"
-msgstr "テンプレートの挿入・更新ができません！"
+#~ msgid "Can't insert/update template!"
+#~ msgstr "テンプレートの挿入・更新ができません！"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Needed TemplateID!"
-msgstr "テンプレートIDの入力が必要です！"
+#~ msgid "Needed TemplateID!"
+#~ msgstr "テンプレートIDの入力が必要です！"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Error occurred. Import impossible! See Syslog for details."
-msgstr "エラーが発生しました。インポートできません！詳細については Syslog "
-"を参照してください。"
+#~ msgid "Error occurred. Import impossible! See Syslog for details."
+#~ msgstr ""
+#~ "エラーが発生しました。インポートできません！詳細については Syslog を参照し"
+#~ "てください。"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Error occurred. Export impossible! See Syslog for details."
-msgstr "エラーが発生しました。エクスポートできません！詳細については Syslog "
-"を参照してください。"
+#~ msgid "Error occurred. Export impossible! See Syslog for details."
+#~ msgstr ""
+#~ "エラーが発生しました。エクスポートできません！詳細については Syslog を参照"
+#~ "してください。"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Template List"
-msgstr "テンプレート・リスト"
+#~ msgid "Template List"
+#~ msgstr "テンプレート・リスト"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "number"
-msgstr "数値"
+#~ msgid "number"
+#~ msgstr "数値"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "number bigger than zero"
-msgstr "0以上の数値"
+#~ msgid "number bigger than zero"
+#~ msgstr "0以上の数値"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "integer"
-msgstr "整数値"
+#~ msgid "integer"
+#~ msgstr "整数値"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "integer bigger than zero"
-msgstr "0以上の整数値"
+#~ msgid "integer bigger than zero"
+#~ msgstr "0以上の整数値"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Element required, please insert data"
-msgstr "データを入力する必要があります"
+#~ msgid "Element required, please insert data"
+#~ msgstr "データを入力する必要があります"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Invalid data, please insert a valid %s"
-msgstr "無効なデータです。有効な %s を入力してください"
+#~ msgid "Invalid data, please insert a valid %s"
+#~ msgstr "無効なデータです。有効な %s を入力してください"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Format not found!"
-msgstr "指定されたフォーマットが見つかりません！"
+#~ msgid "Format not found!"
+#~ msgstr "指定されたフォーマットが見つかりません！"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Column Separator"
-msgstr "桁のセパレータ"
+#~ msgid "Column Separator"
+#~ msgstr "桁のセパレータ"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Tabulator (TAB)"
-msgstr "タブ (TAB)"
+#~ msgid "Tabulator (TAB)"
+#~ msgstr "タブ (TAB)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Semicolon (;)"
-msgstr "セミコロン (;)"
+#~ msgid "Semicolon (;)"
+#~ msgstr "セミコロン (;)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Colon (:)"
-msgstr "コロン (:)"
+#~ msgid "Colon (:)"
+#~ msgstr "コロン (:)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Dot (.)"
-msgstr "ドット(.)"
+#~ msgid "Dot (.)"
+#~ msgstr "ドット(.)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Comma (,)"
-msgstr "カンマ (,)"
+#~ msgid "Comma (,)"
+#~ msgstr "カンマ (,)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Charset"
-msgstr "キャラクタセット"
+#~ msgid "Charset"
+#~ msgstr "キャラクタセット"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Include Column Headers"
-msgstr "ヘッダ情報を含む"
+#~ msgid "Include Column Headers"
+#~ msgstr "ヘッダ情報を含む"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Column"
-msgstr "桁"
+#~ msgid "Column"
+#~ msgstr "桁"
 
-#. JS File: ITSM.Admin.ImportExport
-msgid "Deleting template..."
-msgstr "テンプレートを削除中…"
+#~ msgid "Deleting template..."
+#~ msgstr "テンプレートを削除中…"
 
-#. JS File: ITSM.Admin.ImportExport
-msgid "There was an error deleting the template. Please check the logs for more information."
-msgstr "テンプレートの削除中にエラーが発生しました。詳細はログを確認してください。"
+#~ msgid ""
+#~ "There was an error deleting the template. Please check the logs for more "
+#~ "information."
+#~ msgstr ""
+#~ "テンプレートの削除中にエラーが発生しました。詳細はログを確認してください。"
 
-#. JS File: ITSM.Admin.ImportExport
-msgid "Template was deleted successfully."
-msgstr "テンプレートが正常に削除されました。"
+#~ msgid "Template was deleted successfully."
+#~ msgstr "テンプレートが正常に削除されました。"
 
-#. SysConfig
-msgid "Format backend module registration for the import/export module."
-msgstr "import/exportモジュールのバックエンドモジュールを登録。"
+#~ msgid "Format backend module registration for the import/export module."
+#~ msgstr "import/exportモジュールのバックエンドモジュールを登録。"
 
-#. SysConfig
-msgid "Import and export object information."
-msgstr "オブジェクト情報のインポート・エクスポート。"
+#~ msgid "Import and export object information."
+#~ msgstr "オブジェクト情報のインポート・エクスポート。"
 
-#. SysConfig
-msgid "Import/Export"
-msgstr "インポート/エクスポート"
+#~ msgid "Import/Export"
+#~ msgstr "インポート/エクスポート"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ImportExport\n"
-"POT-Creation-Date: 2020-01-24 10:41+0000\n"
+"POT-Creation-Date: 2026-03-06 11:48+0000\n"
 "PO-Revision-Date: 2021-06-30 16:11+0000\n"
 "Last-Translator: Grit Rother <mr@otobo.de>\n"
 "Language-Team: German <https://translate.otobo.org/projects/otobo10/"
@@ -13,234 +13,192 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.4.2\n"
 
-#. Template: AdminImportExport
-msgid "Import/Export Management"
-msgstr "Import/Export-Verwaltung"
+#~ msgid "Import/Export Management"
+#~ msgstr "Import/Export-Verwaltung"
 
-#. Template: AdminImportExport
-msgid "Add template"
-msgstr "Vorlage hinzufügen"
+#~ msgid "Add template"
+#~ msgstr "Vorlage hinzufügen"
 
-#. Template: AdminImportExport
-msgid "Create a template to import and export object information."
-msgstr "Erstellen einer Vorlage zum Importieren und Exportieren von Objektinformationen."
+#~ msgid "Create a template to import and export object information."
+#~ msgstr ""
+#~ "Erstellen einer Vorlage zum Importieren und Exportieren von "
+#~ "Objektinformationen."
 
-#. Template: AdminImportExport
-msgid "To use this module, you need to install ITSMConfigurationManagement or any other package that provides back end for objects to be imported and exported."
-msgstr "Damit Sie dieses Modul nutzen können, müssen Sie das Paket ITSM Configuration Management oder jedes andere Paket installieren, das ein Backend für zu exportierende und importierende Objekte bereitstellt."
+#~ msgid ""
+#~ "To use this module, you need to install ITSMConfigurationManagement or "
+#~ "any other package that provides back end for objects to be imported and "
+#~ "exported."
+#~ msgstr ""
+#~ "Damit Sie dieses Modul nutzen können, müssen Sie das Paket ITSM "
+#~ "Configuration Management oder jedes andere Paket installieren, das ein "
+#~ "Backend für zu exportierende und importierende Objekte bereitstellt."
 
-#. Template: AdminImportExport
-msgid "Start Import"
-msgstr "Import starten"
+#~ msgid "Start Import"
+#~ msgstr "Import starten"
 
-#. Template: AdminImportExport
-msgid "Start Export"
-msgstr "Export starten"
+#~ msgid "Start Export"
+#~ msgstr "Export starten"
 
-#. Template: AdminImportExport
-msgid "Delete this template"
-msgstr "Diese Vorlage löschen"
+#~ msgid "Delete this template"
+#~ msgstr "Diese Vorlage löschen"
 
-#. Template: AdminImportExport
-msgid "Step 1 of 5 - Edit common information"
-msgstr "Schritt 1 von 5 - Allgemeine Informationen bearbeiten"
+#~ msgid "Step 1 of 5 - Edit common information"
+#~ msgstr "Schritt 1 von 5 - Allgemeine Informationen bearbeiten"
 
-#. Template: AdminImportExport
-msgid "Name is required!"
-msgstr "Name wird benötigt!"
+#~ msgid "Name is required!"
+#~ msgstr "Name wird benötigt!"
 
-#. Template: AdminImportExport
-msgid "Object is required!"
-msgstr "Objekt ist erforderlich!"
+#~ msgid "Object is required!"
+#~ msgstr "Objekt ist erforderlich!"
 
-#. Template: AdminImportExport
-msgid "Format is required!"
-msgstr "Format ist erforderlich!"
+#~ msgid "Format is required!"
+#~ msgstr "Format ist erforderlich!"
 
-#. Template: AdminImportExport
-msgid "Step 2 of 5 - Edit object information"
-msgstr "Schritt 2 von 5 - Objektinformationen bearbeiten"
+#~ msgid "Step 2 of 5 - Edit object information"
+#~ msgstr "Schritt 2 von 5 - Objektinformationen bearbeiten"
 
-#. Template: AdminImportExport
-msgid "Step 3 of 5 - Edit format information"
-msgstr "Schritt 3 von 5 - Formatinformationen bearbeiten"
+#~ msgid "Step 3 of 5 - Edit format information"
+#~ msgstr "Schritt 3 von 5 - Formatinformationen bearbeiten"
 
-#. Template: AdminImportExport
-msgid "is required!"
-msgstr "wird benötigt!"
+#~ msgid "is required!"
+#~ msgstr "wird benötigt!"
 
-#. Template: AdminImportExport
-msgid "Step 4 of 5 - Edit mapping information"
-msgstr "Schritt 4 von 5 - Mapping-Informationen bearbeiten"
+#~ msgid "Step 4 of 5 - Edit mapping information"
+#~ msgstr "Schritt 4 von 5 - Mapping-Informationen bearbeiten"
 
-#. Template: AdminImportExport
-msgid "No map elements found."
-msgstr "Keine Mapping-Elemente gefunden."
+#~ msgid "No map elements found."
+#~ msgstr "Keine Mapping-Elemente gefunden."
 
-#. Template: AdminImportExport
-msgid "Add Mapping Element"
-msgstr "Mapping-Element hinzufügen"
+#~ msgid "Add Mapping Element"
+#~ msgstr "Mapping-Element hinzufügen"
 
-#. Template: AdminImportExport
-msgid "Step 5 of 5 - Edit search information"
-msgstr "Schritt 5 von 5 - Suchinformationen bearbeiten"
+#~ msgid "Step 5 of 5 - Edit search information"
+#~ msgstr "Schritt 5 von 5 - Suchinformationen bearbeiten"
 
-#. Template: AdminImportExport
-msgid "Restrict export per search"
-msgstr "Export per Suche einschränken"
+#~ msgid "Restrict export per search"
+#~ msgstr "Export per Suche einschränken"
 
-#. Template: AdminImportExport
-msgid "Import information"
-msgstr "Import-Informationen"
+#~ msgid "Import information"
+#~ msgstr "Import-Informationen"
 
-#. Template: AdminImportExport
-msgid "Source File"
-msgstr "Quell-Datei"
+#~ msgid "Source File"
+#~ msgstr "Quell-Datei"
 
-#. Template: AdminImportExport
-msgid "Import summary for %s"
-msgstr "Import-Zusammenfassung für %s"
+#~ msgid "Import summary for %s"
+#~ msgstr "Import-Zusammenfassung für %s"
 
-#. Template: AdminImportExport
-msgid "Records"
-msgstr "Datensätze"
+#~ msgid "Records"
+#~ msgstr "Datensätze"
 
-#. Template: AdminImportExport
-msgid "Success"
-msgstr "Erfolgreich"
+#~ msgid "Success"
+#~ msgstr "Erfolgreich"
 
-#. Template: AdminImportExport
-msgid "Duplicate names"
-msgstr "Doppelte Namen"
+#~ msgid "Duplicate names"
+#~ msgstr "Doppelte Namen"
 
-#. Template: AdminImportExport
-msgid "Last processed line number of import file"
-msgstr "Zuletzt verarbeitete Zeilennummer der Import-Datei"
+#~ msgid "Last processed line number of import file"
+#~ msgstr "Zuletzt verarbeitete Zeilennummer der Import-Datei"
 
-#. Template: AdminImportExport
-msgid "Ok"
-msgstr "Ok"
+#~ msgid "Ok"
+#~ msgstr "Ok"
 
-#. Template: AdminImportExport
-msgid "Do you really want to delete this template item?"
-msgstr "Möchten Sie dieses Vorlagenelement wirklich löschen?"
+#~ msgid "Do you really want to delete this template item?"
+#~ msgstr "Möchten Sie dieses Vorlagenelement wirklich löschen?"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "No object backend found!"
-msgstr "Kein Backend für das Objekt verfügbar!"
+#~ msgid "No object backend found!"
+#~ msgstr "Kein Backend für das Objekt verfügbar!"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "No format backend found!"
-msgstr "Kein Backend für das Format verfügbar!"
+#~ msgid "No format backend found!"
+#~ msgstr "Kein Backend für das Format verfügbar!"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Template not found!"
-msgstr "Vorlage nicht verfügbar!"
+#~ msgid "Template not found!"
+#~ msgstr "Vorlage nicht verfügbar!"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Can't insert/update template!"
-msgstr "Die Vorlage konnte nicht eingefügt oder aktualisiert werden!"
+#~ msgid "Can't insert/update template!"
+#~ msgstr "Die Vorlage konnte nicht eingefügt oder aktualisiert werden!"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Needed TemplateID!"
-msgstr "Die ID der Vorlage wird benötigt!"
+#~ msgid "Needed TemplateID!"
+#~ msgstr "Die ID der Vorlage wird benötigt!"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Error occurred. Import impossible! See Syslog for details."
-msgstr "Fehler aufgetreten. Importieren unmöglich! Für Details siehe Systemprotokoll."
+#~ msgid "Error occurred. Import impossible! See Syslog for details."
+#~ msgstr ""
+#~ "Fehler aufgetreten. Importieren unmöglich! Für Details siehe "
+#~ "Systemprotokoll."
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Error occurred. Export impossible! See Syslog for details."
-msgstr "Fehler aufgetreten. Exportieren unmöglich! Für Details siehe Systemprotokoll."
+#~ msgid "Error occurred. Export impossible! See Syslog for details."
+#~ msgstr ""
+#~ "Fehler aufgetreten. Exportieren unmöglich! Für Details siehe "
+#~ "Systemprotokoll."
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Template List"
-msgstr "Vorlagenliste"
+#~ msgid "Template List"
+#~ msgstr "Vorlagenliste"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "number"
-msgstr "Zahl"
+#~ msgid "number"
+#~ msgstr "Zahl"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "number bigger than zero"
-msgstr "Zahl größer als Null"
+#~ msgid "number bigger than zero"
+#~ msgstr "Zahl größer als Null"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "integer"
-msgstr "Ganzzahl"
+#~ msgid "integer"
+#~ msgstr "Ganzzahl"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "integer bigger than zero"
-msgstr "Ganzzahl größer als Null"
+#~ msgid "integer bigger than zero"
+#~ msgstr "Ganzzahl größer als Null"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Element required, please insert data"
-msgstr "Element erforderlich, bitte fügen Sie Daten ein"
+#~ msgid "Element required, please insert data"
+#~ msgstr "Element erforderlich, bitte fügen Sie Daten ein"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Invalid data, please insert a valid %s"
-msgstr "Ungültige Daten, bitte geben Sie ein gültiges %s ein"
+#~ msgid "Invalid data, please insert a valid %s"
+#~ msgstr "Ungültige Daten, bitte geben Sie ein gültiges %s ein"
 
-#. Perl Module: Kernel/Modules/AdminImportExport.pm
-msgid "Format not found!"
-msgstr "Format nicht gefunden!"
+#~ msgid "Format not found!"
+#~ msgstr "Format nicht gefunden!"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Column Separator"
-msgstr "Spaltentrenner"
+#~ msgid "Column Separator"
+#~ msgstr "Spaltentrenner"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Tabulator (TAB)"
-msgstr "Tabulatortaste (TAB)"
+#~ msgid "Tabulator (TAB)"
+#~ msgstr "Tabulatortaste (TAB)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Semicolon (;)"
-msgstr "Semikolon (;)"
+#~ msgid "Semicolon (;)"
+#~ msgstr "Semikolon (;)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Colon (:)"
-msgstr "Doppelpunkt (:)"
+#~ msgid "Colon (:)"
+#~ msgstr "Doppelpunkt (:)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Dot (.)"
-msgstr "Punkt (.)"
+#~ msgid "Dot (.)"
+#~ msgstr "Punkt (.)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Comma (,)"
-msgstr "Komma (,)"
+#~ msgid "Comma (,)"
+#~ msgstr "Komma (,)"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Charset"
-msgstr "Zeichensatz"
+#~ msgid "Charset"
+#~ msgstr "Zeichensatz"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Include Column Headers"
-msgstr "Mit Spaltenüberschriften"
+#~ msgid "Include Column Headers"
+#~ msgstr "Mit Spaltenüberschriften"
 
-#. Perl Module: Kernel/System/ImportExport/FormatBackend/CSV.pm
-msgid "Column"
-msgstr "Spalte"
+#~ msgid "Column"
+#~ msgstr "Spalte"
 
-#. JS File: ITSM.Admin.ImportExport
-msgid "Deleting template..."
-msgstr "Lösche Vorlage..."
+#~ msgid "Deleting template..."
+#~ msgstr "Lösche Vorlage..."
 
-#. JS File: ITSM.Admin.ImportExport
-msgid "There was an error deleting the template. Please check the logs for more information."
-msgstr "Beim Löschen der Vorlage ist ein Fehler aufgetreten. Bitte schauen Sie im Systemprotokoll für mehr Informationen."
+#~ msgid ""
+#~ "There was an error deleting the template. Please check the logs for more "
+#~ "information."
+#~ msgstr ""
+#~ "Beim Löschen der Vorlage ist ein Fehler aufgetreten. Bitte schauen Sie im "
+#~ "Systemprotokoll für mehr Informationen."
 
-#. JS File: ITSM.Admin.ImportExport
-msgid "Template was deleted successfully."
-msgstr "Vorlage wurde erfolgreich gelöscht."
+#~ msgid "Template was deleted successfully."
+#~ msgstr "Vorlage wurde erfolgreich gelöscht."
 
-#. SysConfig
-msgid "Format backend module registration for the import/export module."
-msgstr "Format-Backend Modul-Registration des Import/Export Moduls."
+#~ msgid "Format backend module registration for the import/export module."
+#~ msgstr "Format-Backend Modul-Registration des Import/Export Moduls."
 
-#. SysConfig
-msgid "Import and export object information."
-msgstr "Importieren und Exportieren von Objekt-Informationen."
+#~ msgid "Import and export object information."
+#~ msgstr "Importieren und Exportieren von Objekt-Informationen."
 
-#. SysConfig
-msgid "Import/Export"
-msgstr "Import/Export"
+#~ msgid "Import/Export"
+#~ msgstr "Import/Export"
