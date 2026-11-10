@@ -10,7 +10,7 @@
     <Description Lang="en">The ImportExport package.</Description>
     <Description Lang="de">Das ImportExport Paket.</Description>
     <Description Lang="es">El paquete ImportExport.</Description>
-    <Description Lang="hu">Az ImportExport csomag.</Description>
+    <Description Lang="hu">Az importálás és exportálás csomag.</Description>
     <Filelist>
         <File Permission="660" Location="doc/import-export-database.dia" />
         <File Permission="660" Location="doc/import-export-database.png" />
