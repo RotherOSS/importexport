@@ -2,7 +2,7 @@
 # OTOBO is a web-based ticketing system for service organisations.
 # --
 # Copyright (C) 2001-2020 OTRS AG, https://otrs.com/
-# Copyright (C) 2019-2021 Rother OSS GmbH, https://otobo.de/
+# Copyright (C) 2019-2026 Rother OSS GmbH, https://otobo.io/
 # --
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
@@ -81,12 +81,12 @@ sub FormInputCreate {
     }
 
     my $Prefix = $Param{Prefix} || $Param{Item}{Input}{Prefix} || '';
-    $Prefix   .= $Param{Item}{Key};
+    $Prefix .= $Param{Item}{Key};
 
     # set default value
     $Param{Value} ||= $Param{Item}->{Input}->{ValueDefault};
 
-    if ($Param{Value}) {
+    if ( $Param{Value} ) {
         my ( $Year, $Month, $Day, $Hour, $Minute, $Second ) = $Param{Value} =~
             m{ \A ( \d{4} ) - ( \d{2} ) - ( \d{2} ) \s ( \d{2} ) : ( \d{2} ) : ( \d{2} ) \z }xms;
 
@@ -141,7 +141,7 @@ sub FormDataGet {
     my $ParamObject = $Kernel::OM->Get('Kernel::System::Web::Request');
 
     my $Prefix = $Param{Prefix} || $Param{Item}{Input}{Prefix} || '';
-    $Prefix   .= $Param{Item}{Key};
+    $Prefix .= $Param{Item}{Key};
 
     my %Values;
     for my $Type (qw(Used Year Month Day Hour Minute)) {
