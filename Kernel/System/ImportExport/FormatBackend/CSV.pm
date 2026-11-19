@@ -281,7 +281,7 @@ sub ImportDataGet {
 
     # create an in memory temp file and open it
     my $FileContent = '';
-    open my $FH, '+<', \$FileContent;    ## no critic qw(InputOutput::RequireBriefOpen)
+    open my $FH, '+<', \$FileContent;    ## no critic qw(OTOBO::ProhibitOpen InputOutput::RequireBriefOpen)
 
     # write source content
     print $FH ${ $Param{SourceContent} };

@@ -1636,7 +1636,7 @@ sub _MaskTemplateEdit2 {
         my $Class = ' ';
         my $Value;
 
-        my $DataTypeError;
+        my $DataTypeError;    ## no critic qw(Variables::ProhibitUnusedVariables)
         my $ErrorMessage;
 
         if ( $Item->{Input}->{Required} ) {
